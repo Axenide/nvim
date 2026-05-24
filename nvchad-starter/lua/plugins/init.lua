@@ -1,5 +1,12 @@
 return {
   {
+    "Axenide/WallSync",
+    lazy = false,
+    main = "wallsync",
+    opts = {},
+  },
+
+  {
     "serenevoid/kiwi.nvim",
     opts = {
       {

@@ -54,9 +54,6 @@
           tree-sitter
           vscode-langservers-extracted
           yarn
-          (python3.withPackages (pythonPackages: with pythonPackages; [
-            watchdog
-          ]))
         ];
       };
     in
