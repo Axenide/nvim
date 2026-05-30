@@ -43,13 +43,14 @@
         gcc
         git
         gnumake
+        go
         imagemagick
         isort
+        nil
         nodejs
         pkgs.python3Packages.debugpy
-        prettier
-        procps
         pyright
+        gopls
         qmlls6Compat
         shfmt
         stylua
